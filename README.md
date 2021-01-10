@@ -1,6 +1,6 @@
 # Introduction
 
-I am just a fellow programmer trying to learn as much as I can. Right now I am focusing on learning swift for WWDC 2021 👍
+I am just a fellow programmer trying to learn as much as I can. Right now I am focusing on learning web development for the summer 👍
 ```
 Fluent Languages:
 - GML (GameMaker Language)
@@ -8,6 +8,7 @@ Fluent Languages:
 Known Languages (learning):
 - Python
 - Javascript
-- Swift
+- HTML
+- CSS
 ```
-*(Will expand on this later as I program more projects and learn more languages)* 😄
+*(Will expand on this later as I program more projects and learn more languages)* 😼
