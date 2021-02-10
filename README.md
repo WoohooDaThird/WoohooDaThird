@@ -8,7 +8,6 @@ Fluent Languages:
 Known Languages (learning):
 - Python
 - Javascript
-- HTML
-- CSS
+- HTML/CSS
 ```
 *(Will expand on this later as I program more projects and learn more languages)* 😼
